@@ -4,4 +4,4 @@
 
 🌍  Living in Spain, but ready to travel all around the GLOBEㅤ
 
-🤓 Studying computer engineering && DAW
+🤓 Studying software engineering && DAW
