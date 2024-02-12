@@ -1,9 +1,6 @@
 👋 Welcome to my GitHub, I´m @PAMloboGris39
-
 🔭 Currently working on my formation as a programmer
-ㅤ
-🌍  Living in Spain, but ready to travel all around the GLOBE
-ㅤ
+🌍  Living in Spain, but ready to travel all around the GLOBEㅤ
 🤓 Studying computer engineering && DAW
 <!--
 **PAMloboGris39/PAMloboGris39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
